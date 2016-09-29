@@ -226,3 +226,20 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.ps
+*.pdf
+*.jpg
+*.eps
+*.png
+*.gif
+*.jpeg
+afs/.stud.mathe/fsmath/gemeinsame_Bilder/Vorlagen/quer.tex~
+*.tex~
+afs/.stud.mathe/fsmath/gemeinsame_Bilder/Vorlagen/quer.tex
+afs/.stud.mathe/fsmath/gemeinsame_Bilder/ESI/ESI_Logo.svg
+afs/.stud.mathe/fsmath/gemeinsame_Bilder/Vorlagen/normal.tex
+afs/.stud.mathe/fsmath/gemeinsame_Bilder/Comics/comic7.ps.org
+*.org
+afs/.stud.mathe/fsmath/gemeinsame_Bilder/Bitte_beachten
+*.gz
+*.tex~~
