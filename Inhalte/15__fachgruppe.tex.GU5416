@@ -1,0 +1,201 @@
+\section{Die Fachgruppe Mathematik}
+
+Was ist das: Fachgruppe\,?\\
+
+In diesem Kapitel möchten wir dir erklären,
+was die {\bf Fachgruppe} ist und was sie so alles macht.
+
+Die Fachgruppe sieht sich als Interessenvertretung
+aller Mathematik--Studenten und
+betreibt ausschließlich \glqq Hochschulpolitik\grqq .
+Wir sind also ganz normale Studenten,
+die neben ihrem Studium noch Zeit investieren,
+um für gute Studienbedingungen an unserer Universität zu sorgen.
+\vspace*{1cm}
+\ifthenelse{\boolean{online}}
+{
+}
+{
+\begin{center}
+\includegraphics[width=\textwidth]{/afs/.stud.mathe/fsmath/gemeinsame_Bilder/Comics/shoe_algebra}
+\end{center}
+}
+
+Neben dieser Interessenvertretung der Studenten
+wollen wir auch eine allgemeine Studienberatung sein.
+{\bf Wann immer irgendwelche Probleme oder Fragen
+     bezüglich des Studiums auftauchen,
+     kannst du dich jederzeit an uns wenden.} 
+Wir haben in der Regel einen guten Kontakt zu den Professoren
+und wissen meist auch Bescheid,
+welche Person in unserer Fakultät für was zuständig ist.
+Vielleicht können wir nicht jede deiner Fragen beantworten,
+aber zumindest können wir dich an zuständige Personen verweisen.
+
+Hier ist eine Auf\-listung der Dinge,
+die wir die ganze Zeit so machen:
+
+\begin{itemize}
+
+% Erstsemester
+\item
+Dieses {\bf Erstsemesterinformationsheft} (ESI),
+das du gerade liest, wurde zum Beispiel von der
+Fachgruppe zusammengestellt und geschrieben. 
+Ebenso organisieren wir vor jedem Wintersemester
+die {\bf Erstsemestereinführung} (ESE), um denen,
+die neu an die Uni kommen und sich überhaupt noch nicht auskennen,
+ein wenig mit Rat und Tat zur Seite zu stehen.
+Dieses Jahr findet diese Erstsemestereinführung
+am \ESETagEins. und \ESETagZwei.~Oktober statt. 
+ 
+%Tage
+\item
+Die Fachgruppe beteiligt sich an vielen {\bf Informationsveranstaltungen}
+(Tag der Wissenschaft, Unitag ,\dots).
+Dort machen wir Werbung für das Mathematikstudium
+und geben wichtige Hinweise an Schüler,
+was sie alles in der Mathematik erwarten wird.
+Vielleicht hast du uns ja schon einmal auf einer dieser Veranstaltungen gesehen.
+
+%Vorlesungsumfrage
+\item
+Die {\bf Vorlesungsumfrage} wird von uns ausgewertet
+und ist eine Möglichkeit, den Professoren
+eine Rückmeldung zur ihrer Vorlesung zu geben.
+
+%Seminarplatzvergabe
+\item
+Die Fachgruppe sorgt jedes Semester dafür,
+dass es eine {\bf Pro- und Hauptseminarplatzvergabe}
+(meistens am letzten Mittwoch in der Vorlesungszeit) gibt.
+Dort werden die freien Plätze für die Seminare
+des darauffolgenden Semesters vergeben.
+\end{itemize}
+
+\ifthenelse{\boolean{online}}
+{
+}
+{
+\begin{center}
+\includegraphics[width=16cm]
+{afs/.stud.mathe/fsmath/gemeinsame_Bilder/Comics/mathreli}
+\end{center}
+}
+
+\begin{itemize}
+%ROMCE
+\item
+Au"serdem veranstaltet die Fachgruppe für alle Mathematiker
+im Sommer- und im Wintersemester das ROMCE, unser {\bf Spielewochenende},
+wo wir gemeinsam ein (verlängertes) Wochenende in einer Jugendherberge verbringen.
+Dieses Wochenende ist insbesondere für Erstsemester
+gedacht und soll Gelegenheit bieten, sich untereinander kennenzulernen,
+denn gemeinsam geht vieles besser
+(siehe auch Rückseite).
+
+%Prüfungsprotokolle
+\item
+Damit die Vorbereitung auf Prüfungen besser läuft,
+haben wir für euch diverse {\bf Prüfungsprotokolle} von vergangenen Prüfungen.
+Schriftliche Prüfungen aus den letzten Jahren
+findet ihr auf unserer Internetseite (nur vom Uni-Netz aus zugänglich),
+Protokolle von mündlichen Prüfungen gibt es in der Fachgruppe gegen Pfand.
+
+\item
+Die Fachgruppe verkauft  {\bf Getränke} und {\bf Sü"sigkeiten}
+zum Selbstkostenpreis, damit von unseren Studenten
+auch keiner verdursten muss und jeder etwas Nervennahrung für die Vorlesungen hat.
+
+\item
+Weiter könnt ihr bei uns {\bf Spiele} ausleihen.
+Dort könnt ihr euch, nach Feststellung eurer Personalien,
+für kurze Zeit Spiele aus unsere kleinen,
+aber feinen {\bf Spielesammlung} ausleihen.
+\end{itemize}
+
+Neben den direkt sichtbaren Serviceleistungen gibt es
+auch noch jede Menge von laufenden Aufgaben,
+von denen viele Studenten kaum etwas merken,
+die aber trotzdem wichtig sind. Dazu zählen unter anderem:
+
+\begin{itemize}
+\item
+Die {\bf Fachgruppensitzung}:
+Die Fachgruppe trifft sich in der Vorlesungszeit
+einmal pro Woche zur Fachgruppensitzung,
+zu der alle Studenten recht herzlich eingeladen sind.
+In der Fachgruppensitzung wird alles besprochen,
+was gerade so anliegt, z.B.\ Beteiligung an Uni-Veranstaltungen,
+Organisation von Fachgruppen-Angeboten (s.o.),
+Änderungen an Studienbedingungen und vieles mehr.\\
+{\bf Nächster Termin:} Wird stets auf unserer Homepage angekündigt.
+
+\item
+{\bf Fachbereichs-/Fakultätsratsvertreter}:
+Die Fachgruppe hat voll stimmberechtigte studentische Vertreter
+im Fachbereichsrat (Mathematik) und Fakultätsrat (Mathematik/Physik),
+den beiden zentralen Gremien für alle Belange des Mathematikstudiums.
+
+\item
+Die {\bf Studienkommission}:
+Sie kümmert sich um die Studienordnung.
+Insbesondere bei der Anpassung von Prüfungsordnungen,
+aber auch bei der Verwendung von Studiengebühren
+spielt sie eine wichtige Rolle.
+Wir sind in diesem Gremium mit vier Leuten vertreten.
+
+\item
+Die {\bf Berufungskommissionen}:
+Auch wenn es darum geht, neue Professoren auszusuchen
+(um ausscheidende Professoren zu ersetzen)
+haben die Studenten ein Mitspracherecht.
+Wir achten darauf, dass bei den Auswahlkriterien
+die Lehre nicht allzu kurz kommt
+(die Professoren berücksichtigen in erster Linie die
+Forschungsleistung und nicht die Qualität der Lehre).
+
+\item
+Der {\bf Fachschaftsrat} und die {\bf Stuvus}:
+Die Fachgruppe entsendet Vertreter zum Fachschaftsrat,
+der Interessenvertretung der Studenten der Fakultät $8$
+(Mathematik und Physik).
+Der Vorsitzende besitzt Stimmrecht im Studierendenparlament
+der Studierendenvertretung Universität Stuttgart, kurz Stuvus. 
+
+\newpage
+Das Studierendenparlament ist das Legislativ-Organ
+der Studierendenschaft der Uni Stuttgart.
+Hier wird z.B.\ über Satzungen und Haushaltspläne abgestimmt,
+d.\,h. unter anderem wie euer Studierendenschaftsbeitrag
+von $7$\euro\ verwendet wird.
+Ausserdem sind dort die uniweiten Arbeitskreise angesiedelt
+z.B.\ AK Cräsh (Musikanlage), AK~Computer, AK~Umsetzbar, \dots \\
+\end{itemize}
+
+So, nun hast du einen groben Überblick darüber,
+wer wir sind und was wir machen.
+Wenn du Lust und Zeit hast, dann schau einfach mal vorbei,
+wir freuen uns über jedes neue Gesicht. \\
+
+Au"serdem:
+Fachgruppe macht Spaß! Woran man das sieht?
+- Na, warum sind wir sonst hier.
+
+\begin{flushright}{\it Die Fachgruppe}\end{flushright}
+
+\vspace*{3cm}
+\ifthenelse{\boolean{online}}
+{
+
+}
+{
+\begin{center}
+\includegraphics[width=8cm]
+{/afs/.stud.mathe/fsmath/gemeinsame_Bilder/Comics/snoopy}
+\end{center}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Stand: 1. Juli 2010
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
