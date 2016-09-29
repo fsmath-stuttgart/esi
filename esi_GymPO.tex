@@ -1,0 +1,119 @@
+%%%%%%%%%%%%%
+%% Das ESI %%
+%%%%%%%%%%%%%
+
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[utf8x]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{pst-all}
+\usepackage{Pakete/parallel} % erforderlich für die KVV-Einbindung
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{hyphenat}
+\usepackage{rotating}
+\usepackage{color}
+\usepackage{multirow} % um in Tabellen etwas über mehrere Zeilen laufen zu lassen
+\usepackage{Pakete/mylscape} % erforderlich für die Stundenpläne 
+                              %   und KVV-Einbindung
+\usepackage{amsmath}
+\usepackage{hhline} %für doppellinien
+\usepackage{multirow}
+\usepackage{ulem}
+\usepackage{eurosym} % Euro-Zeichen
+%\usepackage{colortbl}
+
+\input{Pakete/header}
+\definecolor{grau}{gray}{0.8}
+\definecolor{Pflicht}{gray}{0.5}
+\definecolor{Basis}{gray}{0.6}
+\definecolor{Aufbau}{gray}{0.7}
+\definecolor{Wahl}{gray}{0.8}
+\definecolor{Sonstiges}{gray}{0.9}
+
+%ueberschriften (erforderlich für die KVV-Einbindungen)
+\newcommand{\ueberschrift}[1]{\bf\huge{#1}}
+\newcommand{\unterschrift}[1]{\rm\Large{#1}}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt plus 2pt minus 1pt}
+
+\setcounter{tocdepth}{2}
+
+%In der Online-Version des ESIs sollten keine Copyright-geschützten Comics
+%stehen, die in der gedruckten Version teilweise vorkommen. 
+\newboolean{online}
+\setboolean{online}{false} %gedruckte Version
+%\setboolean{online}{true} %online-Version
+
+%Verwendung im Code:
+%\ifthenelse{\boolean{online}}
+%{ hier steht, was in der online Version stehen soll
+%}
+%{ hier steht, was in der offline Version stehen soll
+%}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\input{Daten.tex}         % Zum automatischen Einfügen der aktuellen Daten
+
+\large
+\input{Inhalte/01__titelseite}
+\newpage
+\input{Inhalte/02__vorwort}
+\newpage
+{\tableofcontents}
+\vspace*{3cm}
+
+\newpage
+\input{Inhalte/03__studium}
+
+\newpage
+\input{Inhalte/04__studienplan_bsc}
+
+\input{Inhalte/06__informatik}
+
+\input{Inhalte/09__chemie}
+
+\input{Inhalte/05__bwl}
+
+\input{Inhalte/07__physik}
+
+\input{Inhalte/08__tm}
+
+\input{Inhalte/10__tech_bio}
+
+\input{Inhalte/11__tech_kyb}
+
+\input{Inhalte/12__lrt}
+
+\input{Inhalte/12b__philo}
+
+\input{Inhalte/13__softskills}
+
+\input{Inhalte/14__lehramt__GymPO}
+
+\newpage
+\input{Inhalte/15__fachgruppe}
+
+\input{Inhalte/16__beratung}
+
+\input{Inhalte/17__bafoeg}
+
+\input{Inhalte/18__frauen}
+
+\input{Inhalte/19__vvs}
+
+\input{Inhalte/20__ausland}
+
+%\input{Inhalte/21__notizen}
+
+\input{Inhalte/22__stundenplan}
+
+\newpage
+\input{Inhalte/23__romce}
+
+\end{document}
