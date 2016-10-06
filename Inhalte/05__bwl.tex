@@ -19,31 +19,43 @@ wann die jeweiligen Vorlesungen beginnen.
 Die BWLer haben nämlich die Angewohnheit,
 meist erst in der zweiten oder gar dritten Semesterwoche
 mit den Vorlesungen anzufangen -- dafür hören sie dann evtl.\ eine Woche vor
-Semesterende auch schon wieder auf!\\[-6ex]
+Semesterende auch schon wieder auf!
+
+%\begin{center}
+%\begin{tabular}{|@{}c@{}|@{}c@{}|@{}c@{}|@{}c@{}|@{}c@{}|} 
+%\multicolumn{1}{c}{\makebox[3cm]{1}}
+%&\multicolumn{1}{c}{\makebox[3cm]{}}
+%%&\multicolumn{1}{c}{\makebox[3cm]{}}
+%&\multicolumn{1}{c}{\makebox[3cm]{4}}
+%&\multicolumn{1}{c}{\makebox[3cm]{5}}
+%\\[0.2cm] 
+%
+%\cline{1-1}\cline{3-4}
+%\bf Grundl.~BWL&& \bf BWL~II& \bf BWL~III\\
+%2+1~|~\it3 LP&&  2$\times$(2+1)-\it9 LP&2$\times$(2+1)-\it9 LP\\
+%\cline{1-1}\cline{3-4}
+%\bf Grundl.~WiWi&\multicolumn{3}{c}{}\\
+%2+1~|~\it3 LP&\multicolumn{3}{c}{}\\
+%\cline{1-1}
+%\end{tabular}
+%\end{center}
 
 \begin{center}
-\begin{tabular}{|@{}c@{}|@{}c@{}|@{}c@{}|@{}c@{}|@{}c@{}|} 
-\multicolumn{1}{c}{\makebox[3cm]{1}}
-&\multicolumn{1}{c}{\makebox[3cm]{}}
-%&\multicolumn{1}{c}{\makebox[3cm]{}}
-&\multicolumn{1}{c}{\makebox[3cm]{4}}
-&\multicolumn{1}{c}{\makebox[3cm]{5}}
-\\[0.2cm] 
-
-\cline{1-1}\cline{3-4}
-\bf Grundl.~BWL&& \bf BWL~II& \bf BWL~III\\
-2+1~|~\it3 LP&&  2$\times$(2+1)-\it9 LP&2$\times$(2+1)-\it9 LP\\
-\cline{1-1}\cline{3-4}
-\bf Grundl.~WiWi&\multicolumn{3}{c}{}\\
-2+1~|~\it3 LP&\multicolumn{3}{c}{}\\
-\cline{1-1}
-\end{tabular}
+	\begin{tikzpicture}
+		\colnr{0}{1}{1}
+		\colnr{3}{1}{4}
+		\colnr{4}{1}{5}
+	    \modul{0}{0}{GB\\3 LP}
+	    \modul{0}{-1}{GW\\3 LP}
+		\modul{3}{0}{BWL~II\\9 LP}
+		\modul{4}{0}{BWL~III\\9 LP}
+    \end{tikzpicture}
 \end{center}
 
 Alle Module schließen mit einer Prüfung ab. Es gilt:\\[0.5ex]
 \begin{tabular}{lcrl}
-Nebenfachnote & = &$\frac{3}{24}\,\cdot$&Grundlagen der BWL\\[0.5ex]
-              & + &$\frac{3}{24}\,\cdot$&Grundlagen der Wirtschaftswissenschaften\\[0.5ex]
+Nebenfachnote & = &$\frac{3}{24}\,\cdot$&Grundlagen der BWL (GB)\\[0.5ex]
+              & + &$\frac{3}{24}\,\cdot$&Grundlagen der Wirtschaftswissenschaften (GW)\\[0.5ex]
               & + &$\frac{9}{24}\,\cdot$&BWL~II\\             
               & + &$\frac{9}{24}\,\cdot$&BWL~III
                                   
